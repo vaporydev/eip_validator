@@ -1,4 +1,4 @@
-# EIP validator
+# VIP validator
 
 ## Validation rules
 
